@@ -1,0 +1,11 @@
+*{
+  margin: 5px;
+  padding: 8px;
+  background-color: rgb(207, 204, 204);
+}
+.intro{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
